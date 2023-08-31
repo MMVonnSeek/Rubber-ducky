@@ -16,4 +16,7 @@ This script can also be hosted on a fee service.
 You you may need to adjust your security settings to allow less secure apps.
 
 
+<sub>Optional (if you can follow me and leave a star in the repository)  ⭐
+Thank you
+
 ![octocat-1693486781658](https://github.com/MMVonnSeek/Rubber-ducky/assets/89359847/705738a0-4a55-412c-9d3f-9038f03df58c)
