@@ -14,3 +14,6 @@ You will need to modify the output to be in the newly created "l" directory, as 
 You will need to substitute your email and password where it is stated. This script will email all the files that are in the new folder "l" in a single email. this will include all the stored wifi access point information, and the information obtained from "Chrome Dump". If you did not wish to waste time with displaying the names of folders, or that the email has been sent successfully, remove these from the script.
 This script can also be hosted on a fee service.
 You you may need to adjust your security settings to allow less secure apps.
+
+
+![octocat-1693486781658](https://github.com/MMVonnSeek/Rubber-ducky/assets/89359847/705738a0-4a55-412c-9d3f-9038f03df58c)
